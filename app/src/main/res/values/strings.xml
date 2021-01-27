@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pawfect</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="petlify">Pawfect</string>
+    <string name="donec_tempus_diam_eu_lacinia_bibendum_lacus_tellus_feugiat_sapien_sit_amet_tristique_urna_dui_eget_erat_class_aptent_taciti_sociosqu_ad_litora_torquent_per_conubia_nostra_per_inceptos_himenaeos">Donec tempus, diam eu lacinia bibendum, lacus tellus feugiat sapien, sit amet tristique urna dui eget erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</string>
+    <string name="skip">Skip</string>
+    <string name="todo">TODO</string>
+</resources>

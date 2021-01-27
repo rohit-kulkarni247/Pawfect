@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/antic</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/baloo</item>
+        <item>@font/bevan</item>
+        <item>@font/bungee</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/kadwa</item>
+        <item>@font/raleway_semibold</item>
+        <item>@font/walter_turncoat</item>
+    </array>
+</resources>

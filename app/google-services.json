@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520159309900",
+    "firebase_url": "https://petlify-26656.firebaseio.com",
+    "project_id": "petlify-26656",
+    "storage_bucket": "petlify-26656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520159309900:android:3be041bfbdb371168d04e9",
+        "android_client_info": {
+          "package_name": "com.example.petlify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520159309900-gpb3d3et48ga0tdfa6iou4to9kvvg668.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQDgttPy5Lq2Xjc9paFaqFVP5L7jV_2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520159309900-gpb3d3et48ga0tdfa6iou4to9kvvg668.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
