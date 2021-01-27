@@ -11,8 +11,8 @@
     8. Put up your pet for adoption
 
 ## Functionalities
-    * A complete platform for volunteers and interested adopters to put up their pets or foster animals for adoption or adopt
-      those pets respectively.
+    * A complete platform for volunteers and interested adopters to put up their pets or foster animals for 
+      adoption or adopt those pets respectively.
     * Be informed of the adoption campaigns taking place in their locality.
     * Navigate through google maps to display real-time location.
     * Dynamically add and display information of the respective pets.
